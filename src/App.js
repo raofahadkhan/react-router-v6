@@ -9,7 +9,7 @@ import Product from "./Product";
 function App() {
 	return (
 		<div>
-			<h1>Welcome</h1>
+			<h1>Welcome to Nested Routing</h1>
 			<Link to="/">Home..</Link>
 			<Link to="/about">About..</Link>
 			<Link to="/products">Product</Link>
